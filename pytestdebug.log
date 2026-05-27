@@ -1,0 +1,1279 @@
+versions pytest-9.0.3, python-3.14.0.final.0
+invocation_dir=C:\Users\nshra\git\PythonBasics
+cwd=C:\Users\nshra\git\PythonBasics
+args=('C:\\Users\\nshra\\git\\PythonBasics\\PwDropdownDay23\\test_multiselectdropdown.py', '--headed', '--debug')
+
+  pytest_cmdline_main [hook]
+      config: <_pytest.config.Config object at 0x00000155999A0AD0>
+    pytest_plugin_registered [hook]
+        plugin: <Session  exitstatus='<UNSET>' testsfailed=0 testscollected=0>
+        plugin_name: session
+        manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+    finish pytest_plugin_registered --> [] [hook]
+    pytest_configure [hook]
+        config: <_pytest.config.Config object at 0x00000155999A0AD0>
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x000001559BA91E80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x000001559BE18440>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <pytest_order.plugin.OrderingPlugin object at 0x000001559BE182F0>
+          plugin_name: orderingplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+    early skip of rewriting module: faulthandler [assertion]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+    early skip of rewriting module: pdb [assertion]
+    early skip of rewriting module: cmd [assertion]
+    early skip of rewriting module: code [assertion]
+    early skip of rewriting module: _pyrepl [assertion]
+    early skip of rewriting module: _pyrepl.utils [assertion]
+    early skip of rewriting module: _pyrepl.types [assertion]
+    early skip of rewriting module: _pyrepl.trace [assertion]
+    early skip of rewriting module: rlcompleter [assertion]
+    early skip of rewriting module: readline [assertion]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+          plugin_name: 1467158737792
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.Config object at 0x00000155999A0AD0>
+          plugin_name: pytestconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.mark' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\mark\\__init__.py'>
+          plugin_name: mark
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.main' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\main.py'>
+          plugin_name: main
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.runner' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\runner.py'>
+          plugin_name: runner
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.fixtures' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\fixtures.py'>
+          plugin_name: fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.helpconfig' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\helpconfig.py'>
+          plugin_name: helpconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\python.py'>
+          plugin_name: python
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminal' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\terminal.py'>
+          plugin_name: terminal
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.debugging' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\debugging.py'>
+          plugin_name: debugging
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unittest' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\unittest.py'>
+          plugin_name: unittest
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.capture' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\capture.py'>
+          plugin_name: capture
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.skipping' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\skipping.py'>
+          plugin_name: skipping
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.legacypath' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\legacypath.py'>
+          plugin_name: legacypath
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.tmpdir' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\tmpdir.py'>
+          plugin_name: tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.monkeypatch' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\monkeypatch.py'>
+          plugin_name: monkeypatch
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.recwarn' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\recwarn.py'>
+          plugin_name: recwarn
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.pastebin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\pastebin.py'>
+          plugin_name: pastebin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.assertion' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\assertion\\__init__.py'>
+          plugin_name: assertion
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.junitxml' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\junitxml.py'>
+          plugin_name: junitxml
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.doctest' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\doctest.py'>
+          plugin_name: doctest
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.cacheprovider' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\cacheprovider.py'>
+          plugin_name: cacheprovider
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setuponly' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\setuponly.py'>
+          plugin_name: setuponly
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setupplan' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\setupplan.py'>
+          plugin_name: setupplan
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.stepwise' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\stepwise.py'>
+          plugin_name: stepwise
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unraisableexception' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\unraisableexception.py'>
+          plugin_name: unraisableexception
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.threadexception' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\threadexception.py'>
+          plugin_name: threadexception
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.warnings' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\warnings.py'>
+          plugin_name: warnings
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.logging' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\logging.py'>
+          plugin_name: logging
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.reports' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\reports.py'>
+          plugin_name: reports
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.faulthandler' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\faulthandler.py'>
+          plugin_name: faulthandler
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.subtests' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\subtests.py'>
+          plugin_name: subtests
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_asyncio.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_asyncio\\plugin.py'>
+          plugin_name: asyncio
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_base_url.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_base_url\\plugin.py'>
+          plugin_name: base_url
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_order.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_order\\plugin.py'>
+          plugin_name: pytest_order
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_playwright.pytest_playwright' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_playwright\\pytest_playwright.py'>
+          plugin_name: playwright
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\plugin.py'>
+          plugin_name: xdist
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.looponfail' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\looponfail.py'>
+          plugin_name: xdist.looponfail
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <CaptureManager _method='fd' _global_capturing=<MultiCapture out=<FDCapture 1 oldfd=9 _state='suspended' tmpfile=<EncodedFile name="<_TemporaryFileWrapper file=<_io.FileIO name='C:\\\\Users\\\\nshra\\\\AppData\\\\Local\\\\Temp\\\\tmp_3o82897' mode='rb+' closefd=True>>" mode='r+' encoding='utf-8'>> err=<FDCapture 2 oldfd=11 _state='suspended' tmpfile=<EncodedFile name="<_TemporaryFileWrapper file=<_io.FileIO name='C:\\\\Users\\\\nshra\\\\AppData\\\\Local\\\\Temp\\\\tmplwm2v9bs' mode='rb+' closefd=True>>" mode='r+' encoding='utf-8'>> in_=<FDCapture 0 oldfd=7 _state='started' tmpfile=<_io.TextIOWrapper name='nul' mode='r' encoding='utf-8'>> _state='suspended' _in_suspended=False> _capture_fixture=None>
+          plugin_name: capturemanager
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          plugin_name: session
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x000001559BA91E80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x000001559BE18440>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <pytest_order.plugin.OrderingPlugin object at 0x000001559BE182F0>
+          plugin_name: orderingplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.terminal.TerminalReporter object at 0x000001559BE1A510>
+          plugin_name: terminalreporter
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+    matched marked file '_pytest.terminalprogress' (from '_pytest.terminalprogress') [assertion]
+    find_module called for: _pytest.terminalprogress [assertion]
+    found cached rewritten pyc for C:\Users\nshra\git\PythonBasics\.venv\Lib\site-packages\_pytest\terminalprogress.py [assertion]
+      pytest_configure [hook]
+          config: <_pytest.config.Config object at 0x00000155999A0AD0>
+        pytest_plugin_registered [hook]
+            plugin: <_pytest.terminal.TerminalProgressPlugin object at 0x000001559BE1AE40>
+            plugin_name: terminalprogress-plugin
+            manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+        finish pytest_plugin_registered --> [] [hook]
+      finish pytest_configure --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminalprogress' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\terminalprogress.py'>
+          plugin_name: terminalprogress
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.logging.LoggingPlugin object at 0x000001559BE1AF90>
+          plugin_name: logging-plugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+    finish pytest_configure --> [] [hook]
+    pytest_sessionstart [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+          plugin_name: 1467158737792
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.Config object at 0x00000155999A0AD0>
+          plugin_name: pytestconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.mark' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\mark\\__init__.py'>
+          plugin_name: mark
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.main' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\main.py'>
+          plugin_name: main
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.runner' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\runner.py'>
+          plugin_name: runner
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.fixtures' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\fixtures.py'>
+          plugin_name: fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.helpconfig' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\helpconfig.py'>
+          plugin_name: helpconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\python.py'>
+          plugin_name: python
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminal' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\terminal.py'>
+          plugin_name: terminal
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.debugging' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\debugging.py'>
+          plugin_name: debugging
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unittest' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\unittest.py'>
+          plugin_name: unittest
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.capture' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\capture.py'>
+          plugin_name: capture
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.skipping' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\skipping.py'>
+          plugin_name: skipping
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.legacypath' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\legacypath.py'>
+          plugin_name: legacypath
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.tmpdir' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\tmpdir.py'>
+          plugin_name: tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.monkeypatch' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\monkeypatch.py'>
+          plugin_name: monkeypatch
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.recwarn' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\recwarn.py'>
+          plugin_name: recwarn
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.pastebin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\pastebin.py'>
+          plugin_name: pastebin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.assertion' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\assertion\\__init__.py'>
+          plugin_name: assertion
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.junitxml' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\junitxml.py'>
+          plugin_name: junitxml
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.doctest' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\doctest.py'>
+          plugin_name: doctest
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.cacheprovider' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\cacheprovider.py'>
+          plugin_name: cacheprovider
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setuponly' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\setuponly.py'>
+          plugin_name: setuponly
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setupplan' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\setupplan.py'>
+          plugin_name: setupplan
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.stepwise' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\stepwise.py'>
+          plugin_name: stepwise
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unraisableexception' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\unraisableexception.py'>
+          plugin_name: unraisableexception
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.threadexception' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\threadexception.py'>
+          plugin_name: threadexception
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.warnings' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\warnings.py'>
+          plugin_name: warnings
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.logging' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\logging.py'>
+          plugin_name: logging
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.reports' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\reports.py'>
+          plugin_name: reports
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.faulthandler' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\faulthandler.py'>
+          plugin_name: faulthandler
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.subtests' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\subtests.py'>
+          plugin_name: subtests
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_asyncio.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_asyncio\\plugin.py'>
+          plugin_name: asyncio
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_base_url.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_base_url\\plugin.py'>
+          plugin_name: base_url
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_order.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_order\\plugin.py'>
+          plugin_name: pytest_order
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_playwright.pytest_playwright' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_playwright\\pytest_playwright.py'>
+          plugin_name: playwright
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      early skip of rewriting module: _ast_unparse [assertion]
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.plugin' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\plugin.py'>
+          plugin_name: xdist
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.looponfail' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\looponfail.py'>
+          plugin_name: xdist.looponfail
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <CaptureManager _method='fd' _global_capturing=<MultiCapture out=<FDCapture 1 oldfd=9 _state='suspended' tmpfile=<EncodedFile name="<_TemporaryFileWrapper file=<_io.FileIO name='C:\\\\Users\\\\nshra\\\\AppData\\\\Local\\\\Temp\\\\tmp_3o82897' mode='rb+' closefd=True>>" mode='r+' encoding='utf-8'>> err=<FDCapture 2 oldfd=11 _state='suspended' tmpfile=<EncodedFile name="<_TemporaryFileWrapper file=<_io.FileIO name='C:\\\\Users\\\\nshra\\\\AppData\\\\Local\\\\Temp\\\\tmplwm2v9bs' mode='rb+' closefd=True>>" mode='r+' encoding='utf-8'>> in_=<FDCapture 0 oldfd=7 _state='started' tmpfile=<_io.TextIOWrapper name='nul' mode='r' encoding='utf-8'>> _state='suspended' _in_suspended=False> _capture_fixture=None>
+          plugin_name: capturemanager
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          plugin_name: session
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x000001559BA91E80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x000001559BE18440>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <pytest_order.plugin.OrderingPlugin object at 0x000001559BE182F0>
+          plugin_name: orderingplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.terminal.TerminalReporter object at 0x000001559BE1A510>
+          plugin_name: terminalreporter
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.terminal.TerminalProgressPlugin object at 0x000001559BE1AE40>
+          plugin_name: terminalprogress-plugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminalprogress' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\terminalprogress.py'>
+          plugin_name: terminalprogress
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.logging.LoggingPlugin object at 0x000001559BE1AF90>
+          plugin_name: logging-plugin
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.fixtures.FixtureManager object at 0x000001559BE1B770>
+          plugin_name: funcmanage
+          manager: <_pytest.config.PytestPluginManager object at 0x000001559979B380>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_report_header [hook]
+          config: <_pytest.config.Config object at 0x00000155999A0AD0>
+          start_path: C:\Users\nshra\git\PythonBasics
+          startdir: C:\Users\nshra\git\PythonBasics
+      finish pytest_report_header --> [['asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function'], ['rootdir: C:\\Users\\nshra\\git\\PythonBasics', 'plugins: asyncio-1.3.0, base-url-2.1.0, order-1.4.0, playwright-0.8.0, xdist-3.8.0'], ['using: pytest-9.0.3', 'registered third-party plugins:', '  pytest-asyncio-1.3.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_asyncio\\plugin.py', '  pytest-base-url-2.1.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_base_url\\plugin.py', '  pytest-order-1.4.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_order\\plugin.py', '  pytest-playwright-0.8.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest_playwright\\pytest_playwright.py', '  pytest-xdist-3.8.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\plugin.py', '  pytest-xdist-3.8.0 at C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\xdist\\looponfail.py']] [hook]
+    finish pytest_sessionstart --> [] [hook]
+    pytest_collection [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+    perform_collect <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0> ['C:\\Users\\nshra\\git\\PythonBasics\\PwDropdownDay23\\test_multiselectdropdown.py'] [collection]
+        pytest_collectstart [hook]
+            collector: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        finish pytest_collectstart --> [] [hook]
+        pytest_make_collect_report [hook]
+            collector: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        processing argument CollectionArgument(path=WindowsPath('C:/Users/nshra/git/PythonBasics/PwDropdownDay23/test_multiselectdropdown.py'), parts=[], parametrization=None, module_name=None, original_index=0) [collection]
+            pytest_collect_directory [hook]
+                path: C:\Users\nshra\git\PythonBasics
+                parent: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+            finish pytest_collect_directory --> <Dir PythonBasics> [hook]
+            pytest_collectstart [hook]
+                collector: <Dir PythonBasics>
+            finish pytest_collectstart --> [] [hook]
+            pytest_make_collect_report [hook]
+                collector: <Dir PythonBasics>
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\.git
+                  path: C:\Users\nshra\git\PythonBasics\.git
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\.idea
+                  path: C:\Users\nshra\git\PythonBasics\.idea
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\.pytest_cache
+                  path: C:\Users\nshra\git\PythonBasics\.pytest_cache
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\.venv
+                  path: C:\Users\nshra\git\PythonBasics\.venv
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\ConditionalStatementsFormattingDay3
+                  path: C:\Users\nshra\git\PythonBasics\ConditionalStatementsFormattingDay3
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\ConditionalStatementsFormattingDay3
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir ConditionalStatementsFormattingDay3> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\DataTypesOperatorsConcatenationDay2
+                  path: C:\Users\nshra\git\PythonBasics\DataTypesOperatorsConcatenationDay2
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\DataTypesOperatorsConcatenationDay2
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir DataTypesOperatorsConcatenationDay2> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\DictionaryDay9
+                  path: C:\Users\nshra\git\PythonBasics\DictionaryDay9
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\DictionaryDay9
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir DictionaryDay9> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\EncapAbstractDay14
+                  path: C:\Users\nshra\git\PythonBasics\EncapAbstractDay14
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\EncapAbstractDay14
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir EncapAbstractDay14> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\ExceptionsDay15
+                  path: C:\Users\nshra\git\PythonBasics\ExceptionsDay15
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\ExceptionsDay15
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir ExceptionsDay15> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\FileHandlingDay15
+                  path: C:\Users\nshra\git\PythonBasics\FileHandlingDay15
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\FileHandlingDay15
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir FileHandlingDay15> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\FunctionsDay10
+                  path: C:\Users\nshra\git\PythonBasics\FunctionsDay10
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\FunctionsDay10
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir FunctionsDay10> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\InheritancePolymorphismDay12
+                  path: C:\Users\nshra\git\PythonBasics\InheritancePolymorphismDay12
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\InheritancePolymorphismDay12
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir InheritancePolymorphismDay12> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\ListDay7
+                  path: C:\Users\nshra\git\PythonBasics\ListDay7
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\ListDay7
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir ListDay7> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\LoopsDay4
+                  path: C:\Users\nshra\git\PythonBasics\LoopsDay4
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\LoopsDay4
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir LoopsDay4> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13
+                  path: C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Package ModulesPackagesDay13> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\OOPSDay11
+                  path: C:\Users\nshra\git\PythonBasics\OOPSDay11
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\OOPSDay11
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir OOPSDay11> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwBuiltinlocatorsDay19
+                  path: C:\Users\nshra\git\PythonBasics\PwBuiltinlocatorsDay19
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwBuiltinlocatorsDay19
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwBuiltinlocatorsDay19> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20
+                  path: C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwCSSLocatorsDay20> [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwDropdownDay23> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22
+                  path: C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwPlaywrightActionsDay22> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwSetupDay18
+                  path: C:\Users\nshra\git\PythonBasics\PwSetupDay18
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwSetupDay18
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwSetupDay18> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21
+                  path: C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PwXPathLocatorsDay21> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PytestDay16
+                  path: C:\Users\nshra\git\PythonBasics\PytestDay16
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PytestDay16
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PytestDay16> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PytestDay17
+                  path: C:\Users\nshra\git\PythonBasics\PytestDay17
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\PytestDay17
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir PytestDay17> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\StringsDay5
+                  path: C:\Users\nshra\git\PythonBasics\StringsDay5
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\StringsDay5
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir StringsDay5> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\StringsDay6
+                  path: C:\Users\nshra\git\PythonBasics\StringsDay6
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\StringsDay6
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir StringsDay6> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\TupleSetDay8
+                  path: C:\Users\nshra\git\PythonBasics\TupleSetDay8
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\TupleSetDay8
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir TupleSetDay8> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\VariablesDay1
+                  path: C:\Users\nshra\git\PythonBasics\VariablesDay1
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\VariablesDay1
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir VariablesDay1> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\main.py
+                  path: C:\Users\nshra\git\PythonBasics\main.py
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir PythonBasics>
+                  file_path: C:\Users\nshra\git\PythonBasics\main.py
+                  path: C:\Users\nshra\git\PythonBasics\main.py
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\mydirectory
+                  path: C:\Users\nshra\git\PythonBasics\mydirectory
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: C:\Users\nshra\git\PythonBasics\mydirectory
+                  parent: <Dir PythonBasics>
+              finish pytest_collect_directory --> <Dir mydirectory> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\pytestdebug.log
+                  path: C:\Users\nshra\git\PythonBasics\pytestdebug.log
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir PythonBasics>
+                  file_path: C:\Users\nshra\git\PythonBasics\pytestdebug.log
+                  path: C:\Users\nshra\git\PythonBasics\pytestdebug.log
+              finish pytest_collect_file --> [] [hook]
+            finish pytest_make_collect_report --> <CollectReport '.' lenresult=25 outcome='passed'> [hook]
+            pytest_collectstart [hook]
+                collector: <Dir PwDropdownDay23>
+            finish pytest_collectstart --> [] [hook]
+            pytest_make_collect_report [hook]
+                collector: <Dir PwDropdownDay23>
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\.pytest_cache
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\.pytest_cache
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\__pycache__
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\__pycache__
+              finish pytest_ignore_collect --> True [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir PwDropdownDay23>
+                  file_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_multiselectdropdown.py
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_multiselectdropdown.py
+                pytest_pycollect_makemodule [hook]
+                    parent: <Dir PwDropdownDay23>
+                    module_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_multiselectdropdown.py
+                    path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_multiselectdropdown.py
+                finish pytest_pycollect_makemodule --> <Module test_multiselectdropdown.py> [hook]
+              finish pytest_collect_file --> [<Module test_multiselectdropdown.py>] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                  collection_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir PwDropdownDay23>
+                  file_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+                  path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+                pytest_pycollect_makemodule [hook]
+                    parent: <Dir PwDropdownDay23>
+                    module_path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+                    path: C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_singleselectdropdown.py
+                finish pytest_pycollect_makemodule --> <Module test_singleselectdropdown.py> [hook]
+              finish pytest_collect_file --> [<Module test_singleselectdropdown.py>] [hook]
+            finish pytest_make_collect_report --> <CollectReport 'PwDropdownDay23' lenresult=2 outcome='passed'> [hook]
+        finish pytest_make_collect_report --> <CollectReport '' lenresult=1 outcome='passed'> [hook]
+        pytest_collectreport [hook]
+            report: <CollectReport '' lenresult=1 outcome='passed'>
+        finish pytest_collectreport --> [] [hook]
+    genitems <Module test_multiselectdropdown.py> [collection]
+      pytest_collectstart [hook]
+          collector: <Module test_multiselectdropdown.py>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Module test_multiselectdropdown.py>
+      find_module called for: test_multiselectdropdown [assertion]
+      matched test file (was specified on cmdline): 'C:\\Users\\nshra\\git\\PythonBasics\\PwDropdownDay23\\test_multiselectdropdown.py' [assertion]
+      found cached rewritten pyc for C:\Users\nshra\git\PythonBasics\PwDropdownDay23\test_multiselectdropdown.py [assertion]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: @py_builtins
+            obj: <module 'builtins' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: @pytest_ar
+            obj: <module '_pytest.assertion.rewrite' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\_pytest\\assertion\\rewrite.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: pytest
+            obj: <module 'pytest' from 'C:\\Users\\nshra\\git\\PythonBasics\\.venv\\Lib\\site-packages\\pytest\\__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: sync_playwright
+            obj: <function sync_playwright at 0x000001559B835BC0>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: expect
+            obj: <playwright.sync_api.Expect object at 0x000001559B844050>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: Page
+            obj: <class 'playwright.sync_api._generated.Page'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_multiselectdropdown.py>
+            name: test_multi_select_dropdown
+            obj: <function test_multi_select_dropdown at 0x000001559BEF2F00>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x000001559BFA5010>
+            pytest_make_parametrize_id [hook]
+                config: <_pytest.config.Config object at 0x00000155999A0AD0>
+                val: chromium
+                argname: browser_name
+            finish pytest_make_parametrize_id --> None [hook]
+          early skip of rewriting module: encodings.unicode_escape [assertion]
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_multi_select_dropdown[chromium]>] [hook]
+      finish pytest_make_collect_report --> <CollectReport 'PwDropdownDay23/test_multiselectdropdown.py' lenresult=1 outcome='passed'> [hook]
+    genitems <Function test_multi_select_dropdown[chromium]> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_multi_select_dropdown[chromium]>
+      finish pytest_itemcollected --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'PwDropdownDay23/test_multiselectdropdown.py' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collection_modifyitems [hook]
+          session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          config: <_pytest.config.Config object at 0x00000155999A0AD0>
+          items: [<Function test_multi_select_dropdown[chromium]>]
+      finish pytest_collection_modifyitems --> [] [hook]
+      pytest_collection_finish [hook]
+          session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        pytest_report_collectionfinish [hook]
+            config: <_pytest.config.Config object at 0x00000155999A0AD0>
+            items: [<Function test_multi_select_dropdown[chromium]>]
+            start_path: C:\Users\nshra\git\PythonBasics
+            startdir: C:\Users\nshra\git\PythonBasics
+        finish pytest_report_collectionfinish --> [] [hook]
+      finish pytest_collection_finish --> [] [hook]
+    finish pytest_collection --> None [hook]
+    pytest_runtestloop [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=1>
+      pytest_runtest_protocol [hook]
+          item: <Function test_multi_select_dropdown[chromium]>
+          nextitem: None
+        pytest_runtest_logstart [hook]
+            nodeid: PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]
+            location: ('PwDropdownDay23\\test_multiselectdropdown.py', 4, 'test_multi_select_dropdown[chromium]')
+        finish pytest_runtest_logstart --> [] [hook]
+        pytest_runtest_setup [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='event_loop_policy' scope='session' baseid=''>
+              request: <SubRequest 'event_loop_policy' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <asyncio.windows_events._WindowsProactorEventLoopPolicy object at 0x000001559BFA4AD0> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='base_url' scope='session' baseid=''>
+              request: <SubRequest 'base_url' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup -->  [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='_verify_url' scope='session' baseid=''>
+              request: <SubRequest '_verify_url' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> None [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='pytestconfig' scope='session' baseid=''>
+              request: <SubRequest 'pytestconfig' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <_pytest.config.Config object at 0x00000155999A0AD0> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='delete_output_dir' scope='session' baseid=''>
+              request: <SubRequest 'delete_output_dir' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> None [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser_type_launch_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_type_launch_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> [hook]
+              headless: False
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='playwright' scope='session' baseid=''>
+              request: <SubRequest 'playwright' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <playwright._impl._playwright.Playwright object at 0x000001559BFA6E40> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser_name' scope='session' baseid=''>
+              request: <SubRequest 'browser_name' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> chromium [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser_type' scope='session' baseid=''>
+              request: <SubRequest 'browser_type' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <BrowserType name=chromium executable_path=C:\Users\nshra\AppData\Local\ms-playwright\chromium-1223\chrome-win64\chrome.exe> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='connect_options' scope='session' baseid=''>
+              request: <SubRequest 'connect_options' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> None [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='launch_browser' scope='session' baseid=''>
+              request: <SubRequest 'launch_browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <function launch_browser.<locals>.launch at 0x000001559BF850C0> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser' scope='session' baseid=''>
+              request: <SubRequest 'browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <Browser type=<BrowserType name=chromium executable_path=C:\Users\nshra\AppData\Local\ms-playwright\chromium-1223\chrome-win64\chrome.exe> version=148.0.7778.96> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='device' scope='session' baseid=''>
+              request: <SubRequest 'device' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> None [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='_pw_artifacts_folder' scope='session' baseid=''>
+              request: <SubRequest '_pw_artifacts_folder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <TemporaryDirectory 'C:\\Users\\nshra\\AppData\\Local\\Temp\\playwright-pytest-sz72_7e2'> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='output_path' scope='function' baseid=''>
+              request: <SubRequest 'output_path' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> C:\Users\nshra\git\PythonBasics\test-results\pwdropdownday23-test-multiselectdropdown-py-test-multi-select-dropdown-chromium [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <pytest_playwright.pytest_playwright.ArtifactsRecorder object at 0x000001559BFA78C0> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='new_context' scope='function' baseid=''>
+              request: <SubRequest 'new_context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <function new_context.<locals>._new_context at 0x000001559D25D430> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='context' scope='function' baseid=''>
+              request: <SubRequest 'context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <BrowserContext browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\nshra\AppData\Local\ms-playwright\chromium-1223\chrome-win64\chrome.exe> version=148.0.7778.96>> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='page' scope='function' baseid=''>
+              request: <SubRequest 'page' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_setup --> <Page url='about:blank'> [hook]
+        finish pytest_runtest_setup --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+            call: <CallInfo when='setup' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='setup' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='setup' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='setup' outcome='passed'>
+              config: <_pytest.config.Config object at 0x00000155999A0AD0>
+          finish pytest_report_teststatus --> ('', '', '') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_call [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+          pytest_pyfunc_call [hook]
+              pyfuncitem: <Function test_multi_select_dropdown[chromium]>
+          finish pytest_pyfunc_call --> True [hook]
+        finish pytest_runtest_call --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+            call: <CallInfo when='call' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='call' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='call' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='call' outcome='passed'>
+              config: <_pytest.config.Config object at 0x00000155999A0AD0>
+          finish pytest_report_teststatus --> ('passed', '.', 'PASSED') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_teardown [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+            nextitem: None
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='page' scope='function' baseid=''>
+              request: <SubRequest 'page' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='page' scope='function' baseid=''>
+              request: <SubRequest 'page' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='context' scope='function' baseid=''>
+              request: <SubRequest 'context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='context' scope='function' baseid=''>
+              request: <SubRequest 'context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='new_context' scope='function' baseid=''>
+              request: <SubRequest 'new_context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='new_context' scope='function' baseid=''>
+              request: <SubRequest 'new_context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='output_path' scope='function' baseid=''>
+              request: <SubRequest 'output_path' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='new_context' scope='function' baseid=''>
+              request: <SubRequest 'new_context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_pw_artifacts_folder' scope='session' baseid=''>
+              request: <SubRequest '_pw_artifacts_folder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='device' scope='session' baseid=''>
+              request: <SubRequest 'device' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='new_context' scope='function' baseid=''>
+              request: <SubRequest 'new_context' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser' scope='session' baseid=''>
+              request: <SubRequest 'browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser' scope='session' baseid=''>
+              request: <SubRequest 'browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='launch_browser' scope='session' baseid=''>
+              request: <SubRequest 'launch_browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='launch_browser' scope='session' baseid=''>
+              request: <SubRequest 'launch_browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='connect_options' scope='session' baseid=''>
+              request: <SubRequest 'connect_options' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='launch_browser' scope='session' baseid=''>
+              request: <SubRequest 'launch_browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_type' scope='session' baseid=''>
+              request: <SubRequest 'browser_type' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_type' scope='session' baseid=''>
+              request: <SubRequest 'browser_type' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_name' scope='session' baseid=''>
+              request: <SubRequest 'browser_name' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_type' scope='session' baseid=''>
+              request: <SubRequest 'browser_type' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='playwright' scope='session' baseid=''>
+              request: <SubRequest 'playwright' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='launch_browser' scope='session' baseid=''>
+              request: <SubRequest 'launch_browser' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_type_launch_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_type_launch_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='delete_output_dir' scope='session' baseid=''>
+              request: <SubRequest 'delete_output_dir' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_artifacts_recorder' scope='function' baseid=''>
+              request: <SubRequest '_artifacts_recorder' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='output_path' scope='function' baseid=''>
+              request: <SubRequest 'output_path' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='device' scope='session' baseid=''>
+              request: <SubRequest 'device' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_type_launch_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_type_launch_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='delete_output_dir' scope='session' baseid=''>
+              request: <SubRequest 'delete_output_dir' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='pytestconfig' scope='session' baseid=''>
+              request: <SubRequest 'pytestconfig' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_verify_url' scope='session' baseid=''>
+              request: <SubRequest '_verify_url' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser_context_args' scope='session' baseid=''>
+              request: <SubRequest 'browser_context_args' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='_verify_url' scope='session' baseid=''>
+              request: <SubRequest '_verify_url' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='base_url' scope='session' baseid=''>
+              request: <SubRequest 'base_url' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='event_loop_policy' scope='session' baseid=''>
+              request: <SubRequest 'event_loop_policy' for <Function test_multi_select_dropdown[chromium]>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+        finish pytest_runtest_teardown --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_multi_select_dropdown[chromium]>
+            call: <CallInfo when='teardown' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='teardown' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='teardown' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]' when='teardown' outcome='passed'>
+              config: <_pytest.config.Config object at 0x00000155999A0AD0>
+          finish pytest_report_teststatus --> ('', '', '') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_logfinish [hook]
+            nodeid: PwDropdownDay23/test_multiselectdropdown.py::test_multi_select_dropdown[chromium]
+            location: ('PwDropdownDay23\\test_multiselectdropdown.py', 4, 'test_multi_select_dropdown[chromium]')
+        finish pytest_runtest_logfinish --> [] [hook]
+      finish pytest_runtest_protocol --> True [hook]
+    finish pytest_runtestloop --> True [hook]
+    pytest_sessionfinish [hook]
+        session: <Session  exitstatus=0 testsfailed=0 testscollected=1>
+        exitstatus: 0
+      pytest_terminal_summary [hook]
+          terminalreporter: <_pytest.terminal.TerminalReporter object at 0x000001559BE1A510>
+          exitstatus: 0
+          config: <_pytest.config.Config object at 0x00000155999A0AD0>
+      finish pytest_terminal_summary --> [] [hook]
+    finish pytest_sessionfinish --> [] [hook]
+    pytest_unconfigure [hook]
+        config: <_pytest.config.Config object at 0x00000155999A0AD0>
+    finish pytest_unconfigure --> [] [hook]

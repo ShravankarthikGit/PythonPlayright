@@ -5,98 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pythonplaywright.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConditionalStatementsFormattingDay3/conditionalstatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConditionalStatementsFormattingDay3/formattingoutput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesOperatorsConcatenationDay2/TakingInputFromUser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesOperatorsConcatenationDay2/concatenation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesOperatorsConcatenationDay2/datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesOperatorsConcatenationDay2/deletingvaraibles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesOperatorsConcatenationDay2/operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionaryDay9/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionaryDay9/Counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionaryDay9/DefaultDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionaryDay9/pythondictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EncapAbstractDay14/Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EncapAbstractDay14/Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionsDay15/Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlingDay15/Filehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlingDay15/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlingDay15/fileoperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionsDay10/Scopeofvariables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionsDay10/functionarguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionsDay10/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InheritancePolymorphismDay12/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InheritancePolymorphismDay12/polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListDay7/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListDay7/listdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/Assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/AtmMenu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/breakandcontinue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/forloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/matchstatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/rangefunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsDay4/whileloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/animalbirdmain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/bird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/classA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/classABmain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/classB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/Modules/operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/client3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/client1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/package2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/package2/module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/package2/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/package3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/package1/package3/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulesPackagesDay13/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPSDay11/oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBuiltinlocatorsDay19/test_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBuiltinlocatorsDay19/test_practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBuiltinlocatorsDay19/test_pwlocatorsdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwCSSLocatorsDay20/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwCSSLocatorsDay20/test_csslocators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwSetupDay18/test_playwright.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwSetupDay18/test_playwright_async.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/mypack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/mypack/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/mypack/test_logins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/mypack/test_signups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/test_demos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/test_demos_fixtures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/test_demos_fixtures_returns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/test_demos_fixtures_scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay16/test_demos_fixtures_yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay17/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay17/test_grouping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay17/test_ordering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay17/test_parallel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PytestDay17/test_skipping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDay5/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDay5/stringmethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDay5/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDay6/mutabilityVsImmutability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsDay6/stringmethodspart2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TupleSetDay8/pythonset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TupleSetDay8/pythontuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VariablesDay1/variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydirectory/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/test_singleselectdropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/AsssignmentAnswer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_checkboxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_inputbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_radiobuttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwXPathLocatorsDay21/test_dynamicxpaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwXPathLocatorsDay21/test_xpathlocators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PwCSSLocatorsDay20/Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwCSSLocatorsDay20/Assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,24 +43,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for Assignment.test_actions.executor": "Run",
+    "Python tests.Python tests for test_checkboxes.test_checkbox.executor": "Run",
     "Python tests.Python tests for test_demos.test_mytest.executor": "Run",
+    "Python tests.Python tests for test_dynamicxpaths.test_handle_dynamic_elements.executor": "Run",
+    "Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown.executor": "Run",
     "Python tests.Python tests for test_pwlocatorsdemo.test_verify_pwlocators.executor": "Run",
+    "Python tests.Python tests for test_singleselectdropdown.test_single_select_dropdown.executor": "Run",
+    "Python tests.Python tests in Assignment.py.executor": "Run",
     "Python tests.Python tests in practice.py.executor": "Run",
+    "Python tests.Python tests in test_checkboxes.py.executor": "Run",
     "Python tests.Python tests in test_csslocators.py.executor": "Run",
     "Python tests.Python tests in test_demos.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_returns.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_scope.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_yield.py.executor": "Run",
+    "Python tests.Python tests in test_dynamicxpaths.py.executor": "Run",
     "Python tests.Python tests in test_grouping.py.executor": "Run",
+    "Python tests.Python tests in test_inputbox.py.executor": "Run",
     "Python tests.Python tests in test_logins.py.executor": "Run",
     "Python tests.Python tests in test_ordering.py.executor": "Run",
     "Python tests.Python tests in test_playwright.py.executor": "Run",
     "Python tests.Python tests in test_playwright_async.py.executor": "Run",
     "Python tests.Python tests in test_practice.py.executor": "Run",
     "Python tests.Python tests in test_pwlocatorsdemo.py.executor": "Run",
+    "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
     "Python tests.Python tests in test_signups.py.executor": "Run",
     "Python tests.Python tests in test_skipping.py.executor": "Run",
+    "Python tests.Python tests in test_xpathlocators.py.executor": "Run",
     "Python.Assignment.executor": "Run",
     "Python.Assignment2.executor": "Run",
     "Python.DefaultDict.executor": "Run",
@@ -179,17 +109,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwCSSLocatorsDay20"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwDropdownDay23"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PythonBasics\PwDropdownDay23" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20" />
       <recent name="C:\Users\nshra\git\PythonBasics\BuiltinlocatorsDay19" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwSetupDay18" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PytestDay17" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PytestDay16\mypack" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13\package1\package2" />
@@ -197,7 +127,7 @@
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in practice.py">
+  <component name="RunManager" selected="Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -242,6 +172,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Assignment.test_actions" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwPlaywrightActionsDay22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;Assignment.test_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_checkboxes.test_checkbox" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwPlaywrightActionsDay22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_checkboxes.test_checkbox&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_demos.test_mytest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -254,6 +214,36 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_demos.test_mytest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_dynamicxpaths.test_handle_dynamic_elements" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwXPathLocatorsDay21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_dynamicxpaths.test_handle_dynamic_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_multiselectdropdown.test_multi_select_dropdown" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwDropdownDay23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_multiselectdropdown.test_multi_select_dropdown&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -270,6 +260,51 @@
       <option name="_new_additionalArguments" value="&quot;--headed --browser\u003dchromium&quot;" />
       <option name="_new_target" value="&quot;test_pwlocatorsdemo.test_verify_pwlocators&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_radiobuttons.test_radio_buttons" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwPlaywrightActionsDay22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_radiobuttons.test_radio_buttons&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_singleselectdropdown.test_single_select_dropdown" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwDropdownDay23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_singleselectdropdown.test_single_select_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Assignment.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwPlaywrightActionsDay22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwPlaywrightActionsDay22/Assignment.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in practice.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
@@ -302,6 +337,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_multiselectdropdown.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwDropdownDay23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.functions" />
@@ -327,6 +377,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3ee07e68-daca-44a4-8507-c8dad3e5df76" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3ee07e68-daca-44a4-8507-c8dad3e5df76">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -334,6 +405,10 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
