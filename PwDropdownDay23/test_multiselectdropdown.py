@@ -18,7 +18,13 @@ def test_multi_select_dropdown(page: Page):
     # deselect all options
     page.locator("#colors").select_option(value=[])  # by values
 
-    drowpdown_options=page.locator("#colors>option")
+
+
+    # drowpdown_options=page.locator("#colors>option")
+
+    drowpdown_options = page.locator(".form-group>#colors option")
+
+
     expect(drowpdown_options).to_have_count(7)
 
     page.wait_for_timeout(5000)

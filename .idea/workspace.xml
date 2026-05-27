@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/test_singleselectdropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/AsssignmentAnswer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_checkboxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_inputbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwPlaywrightActionsDay22/test_radiobuttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwXPathLocatorsDay21/test_dynamicxpaths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwXPathLocatorsDay21/test_xpathlocators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/AssignmentSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/test_bootstrapdropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/test_pwmethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/AssigmentSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/Assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PwCSSLocatorsDay20/Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwCSSLocatorsDay20/Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +40,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for Asignment.test_dropdown.executor": "Run",
     "Python tests.Python tests for Assignment.test_actions.executor": "Run",
+    "Python tests.Python tests for test_bootstrapdropdown.test_bootstrapdropdown.executor": "Run",
     "Python tests.Python tests for test_checkboxes.test_checkbox.executor": "Run",
     "Python tests.Python tests for test_demos.test_mytest.executor": "Run",
     "Python tests.Python tests for test_dynamicxpaths.test_handle_dynamic_elements.executor": "Run",
     "Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown.executor": "Run",
     "Python tests.Python tests for test_pwlocatorsdemo.test_verify_pwlocators.executor": "Run",
     "Python tests.Python tests for test_singleselectdropdown.test_single_select_dropdown.executor": "Run",
+    "Python tests.Python tests in Asignment.py.executor": "Run",
+    "Python tests.Python tests in AssigmentSolution.py.executor": "Run",
+    "Python tests.Python tests in Assignment.py (1).executor": "Run",
     "Python tests.Python tests in Assignment.py.executor": "Run",
     "Python tests.Python tests in practice.py.executor": "Run",
     "Python tests.Python tests in test_checkboxes.py.executor": "Run",
@@ -68,6 +70,7 @@
     "Python tests.Python tests in test_playwright_async.py.executor": "Run",
     "Python tests.Python tests in test_practice.py.executor": "Run",
     "Python tests.Python tests in test_pwlocatorsdemo.py.executor": "Run",
+    "Python tests.Python tests in test_pwmethods.py.executor": "Run",
     "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
     "Python tests.Python tests in test_signups.py.executor": "Run",
     "Python tests.Python tests in test_skipping.py.executor": "Run",
@@ -110,16 +113,16 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwDropdownDay23"
+    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwBootStrapDay24"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PythonBasics\PwBootStrapDay24" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwDropdownDay23" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20" />
-      <recent name="C:\Users\nshra\git\PythonBasics\BuiltinlocatorsDay19" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13\package1\package2" />
@@ -127,7 +130,7 @@
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown">
+  <component name="RunManager" selected="Python tests.Python tests in Assignment.py (1)">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -184,6 +187,36 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;Assignment.test_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PwDropdownDay23.Assignment.test_dropdown" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwDropdownDay23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;PwDropdownDay23.Assignment.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_bootstrapdropdown.test_bootstrapdropdown" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwBootStrapDay24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_bootstrapdropdown.test_bootstrapdropdown&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -290,6 +323,21 @@
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;test_singleselectdropdown.test_single_select_dropdown&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Assignment.py (1)" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwBootStrapDay24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwBootStrapDay24/Assignment.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in Assignment.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
