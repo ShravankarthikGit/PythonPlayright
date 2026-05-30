@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/AssignmentSolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/test_bootstrapdropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwBootStrapDay24/test_pwmethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/AssigmentSolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDropdownDay23/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_assignment_dynamic_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_assignment_flight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_blazedemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_dynamictable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_dynamictable_assignment_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_paginationtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDynamicTablesDay26/test_paginationtable_assignment_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagination_table.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwDropdownDay23/test_multiselectdropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/CodingQues1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/CodingQues1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PwStaticWebTablesDay25/test_statictable.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwStaticWebTablesDay25/test_statictable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for Asignment.test_dropdown.executor": "Run",
     "Python tests.Python tests for Assignment.test_actions.executor": "Run",
+    "Python tests.Python tests for test_assignment_flight.test_assignment_flight_booking.executor": "Run",
     "Python tests.Python tests for test_bootstrapdropdown.test_bootstrapdropdown.executor": "Run",
     "Python tests.Python tests for test_checkboxes.test_checkbox.executor": "Run",
     "Python tests.Python tests for test_demos.test_mytest.executor": "Run",
@@ -53,7 +59,10 @@
     "Python tests.Python tests in AssigmentSolution.py.executor": "Run",
     "Python tests.Python tests in Assignment.py (1).executor": "Run",
     "Python tests.Python tests in Assignment.py.executor": "Run",
+    "Python tests.Python tests in AssignmentDynamictable.py.executor": "Run",
     "Python tests.Python tests in practice.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_dynamic_table.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_flight.py.executor": "Run",
     "Python tests.Python tests in test_checkboxes.py.executor": "Run",
     "Python tests.Python tests in test_csslocators.py.executor": "Run",
     "Python tests.Python tests in test_demos.py.executor": "Run",
@@ -61,11 +70,13 @@
     "Python tests.Python tests in test_demos_fixtures_returns.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_scope.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_yield.py.executor": "Run",
+    "Python tests.Python tests in test_dynamictable.py.executor": "Run",
     "Python tests.Python tests in test_dynamicxpaths.py.executor": "Run",
     "Python tests.Python tests in test_grouping.py.executor": "Run",
     "Python tests.Python tests in test_inputbox.py.executor": "Run",
     "Python tests.Python tests in test_logins.py.executor": "Run",
     "Python tests.Python tests in test_ordering.py.executor": "Run",
+    "Python tests.Python tests in test_paginationtable.py.executor": "Run",
     "Python tests.Python tests in test_playwright.py.executor": "Run",
     "Python tests.Python tests in test_playwright_async.py.executor": "Run",
     "Python tests.Python tests in test_practice.py.executor": "Run",
@@ -74,9 +85,11 @@
     "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
     "Python tests.Python tests in test_signups.py.executor": "Run",
     "Python tests.Python tests in test_skipping.py.executor": "Run",
+    "Python tests.Python tests in test_statictable.py.executor": "Run",
     "Python tests.Python tests in test_xpathlocators.py.executor": "Run",
     "Python.Assignment.executor": "Run",
     "Python.Assignment2.executor": "Run",
+    "Python.CodingQues1.executor": "Run",
     "Python.DefaultDict.executor": "Run",
     "Python.Exceptions.executor": "Run",
     "Python.Filehandling.executor": "Run",
@@ -97,6 +110,7 @@
     "Python.formattingoutput.executor": "Run",
     "Python.functionarguments.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
     "Python.main.executor": "Run",
     "Python.matchstatement.executor": "Run",
     "Python.mutabilityVsImmutability.executor": "Run",
@@ -113,24 +127,25 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwBootStrapDay24"
+    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwDynamicTablesDay26"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PythonBasics\PwDynamicTablesDay26" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwStaticWebTablesDay25" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwBootStrapDay24" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwDropdownDay23" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwPlaywrightActionsDay22" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwXPathLocatorsDay21" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwCSSLocatorsDay20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PythonBasics\PwDynamicTablesDay26" />
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13\package1\package2" />
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesPackagesDay13" />
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in Assignment.py (1)">
+  <component name="RunManager" selected="Python tests.Python tests for test_assignment_flight.test_assignment_flight_booking">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -202,6 +217,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;PwDropdownDay23.Assignment.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_assignment_flight.test_assignment_flight_booking" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwDynamicTablesDay26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_assignment_flight.test_assignment_flight_booking&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -325,21 +355,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Assignment.py (1)" type="tests" factoryName="Autodetect" nameIsGenerated="true">
-      <module name="Pythonplaywright" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwBootStrapDay24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwBootStrapDay24/Assignment.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in Assignment.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -355,6 +370,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in Assignment.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwBootStrapDay24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwBootStrapDay24/Assignment.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in practice.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -367,6 +397,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/PwCSSLocatorsDay20/practice.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_assignment_dynamic_table.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwStaticWebTablesDay25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PwDynamicTablesDay26/test_assignment_dynamic_table.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
