@@ -2,7 +2,7 @@ from playwright.sync_api import Playwright, sync_playwright, expect, Page
 from pathlib import Path
 import pytest
 
-@pytest.mark.skip()
+# @pytest.mark.skip()
 def test_single_file_upload(page:Page):
     page.goto("https://davidwalsh.name/demo/multiple-file-upload.php")
 
@@ -10,6 +10,10 @@ def test_single_file_upload(page:Page):
 
     page.locator("#filesToUpload").set_input_files(absolute_path / "testfile1.pdf")
     expect(page.locator("#fileList li")).to_contain_text("testfile1")
+
+    # Clear all files
+    page.locator("#filesToUpload").set_input_files([])
+    expect(page.locator("#fileList li:nth-child(1)")).to_have_text("No Files Selected")
 
     page.wait_for_timeout(5000)
 

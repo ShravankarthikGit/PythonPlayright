@@ -5,33 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/PwOpenNewTab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/lamdademo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDialoguesFramesDay28/test_dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDialoguesFramesDay28/test_frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDialoguesFramesDay28/test_frames_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwDialoguesFramesDay28/test_innerframes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_datepicker_irctc_lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_datepicker_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_datepicker_range_lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_datepickerwithdropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_datepickerwithdropdown_lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_dummmyticketbooking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_dummmyticketbooking_lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/Asssignments/test_irctc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/test_bootstrap_datepicker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwJQueryBootstrapDay27/test_jquerydatepicker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_downloadfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_fileuploads_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_keyboardevents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_upload_download/testfile1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_upload_download/testfile2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/test_uploadfiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwKeyboard30/testfileuploads_Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwMouseActionsDay29/test_draganddrop_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwMouseActionsDay29/test_draganddrop_lab_Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwMouseActionsDay29/test_mouseactions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwAllureReportsDay34/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwAllureReportsDay34/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_assignment_tabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_assignment_tabs_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_authpopup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_brcontext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_popups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwBrowserContextDay31/test_tabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwCaptureVideosDay32/test_flaky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwCaptureVideosDay32/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwCaptureVideosDay32/test_screenshots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwCaptureVideosDay32/test_tracing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwCaptureVideosDay32/test_videorecording.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/data_reader_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/test_dd_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/test_dd_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/test_dd_login_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/test_dd_login_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/test_dd_login_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/testdata/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/testdata/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/testdata/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwDataDrivenDay33/usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPOODay35/cartpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPOODay35/homepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPOODay35/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PwPOODay35/test_add_product_to_cart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PwKeyboard30/test_downloadfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwKeyboard30/test_downloadfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PwKeyboard30/testfileuploads_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/PwKeyboard30/testfileuploads_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +91,18 @@
     "Python tests.Python tests in practice.py.executor": "Run",
     "Python tests.Python tests in test_assignment_dynamic_table.py.executor": "Run",
     "Python tests.Python tests in test_assignment_flight.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_tabs.py.executor": "Run",
+    "Python tests.Python tests in test_authpopup.py.executor": "Run",
     "Python tests.Python tests in test_bootstrap_datepicker.py.executor": "Run",
+    "Python tests.Python tests in test_brcontext.py.executor": "Run",
     "Python tests.Python tests in test_checkboxes.py.executor": "Run",
     "Python tests.Python tests in test_csslocators.py.executor": "Run",
     "Python tests.Python tests in test_datepicker_range.py.executor": "Run",
     "Python tests.Python tests in test_datepickerwithdropdown.py.executor": "Run",
+    "Python tests.Python tests in test_dd_item.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login_csv.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login_excel.py.executor": "Run",
     "Python tests.Python tests in test_demos.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures.py.executor": "Run",
     "Python tests.Python tests in test_demos_fixtures_returns.py.executor": "Run",
@@ -102,6 +113,7 @@
     "Python tests.Python tests in test_dummmyticketbooking.py.executor": "Run",
     "Python tests.Python tests in test_dynamictable.py.executor": "Run",
     "Python tests.Python tests in test_dynamicxpaths.py.executor": "Run",
+    "Python tests.Python tests in test_flaky.py.executor": "Run",
     "Python tests.Python tests in test_frames.py.executor": "Run",
     "Python tests.Python tests in test_grouping.py.executor": "Run",
     "Python tests.Python tests in test_inputbox.py.executor": "Run",
@@ -114,14 +126,20 @@
     "Python tests.Python tests in test_paginationtable.py.executor": "Run",
     "Python tests.Python tests in test_playwright.py.executor": "Run",
     "Python tests.Python tests in test_playwright_async.py.executor": "Run",
+    "Python tests.Python tests in test_popups.py.executor": "Run",
     "Python tests.Python tests in test_practice.py.executor": "Run",
     "Python tests.Python tests in test_pwlocatorsdemo.py.executor": "Run",
     "Python tests.Python tests in test_pwmethods.py.executor": "Run",
     "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
+    "Python tests.Python tests in test_sample.py.executor": "Run",
+    "Python tests.Python tests in test_screenshots.py.executor": "Run",
     "Python tests.Python tests in test_signups.py.executor": "Run",
     "Python tests.Python tests in test_skipping.py.executor": "Run",
     "Python tests.Python tests in test_statictable.py.executor": "Run",
+    "Python tests.Python tests in test_tabs.py.executor": "Run",
+    "Python tests.Python tests in test_tracing.py.executor": "Run",
     "Python tests.Python tests in test_uploadfiles.py.executor": "Run",
+    "Python tests.Python tests in test_videorecording.py.executor": "Run",
     "Python tests.Python tests in test_xpathlocators.py.executor": "Run",
     "Python tests.Python tests in testfileuploads_Assignment.py.executor": "Run",
     "Python.Assignment.executor": "Run",
@@ -166,16 +184,16 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwKeyboard30"
+    "last_opened_file_path": "C:/Users/nshra/git/PythonBasics/PwPOODay35"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PythonBasics\PwAllureReportsDay34" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwDataDrivenDay33" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwCaptureVideosDay32" />
+      <recent name="C:\Users\nshra\git\PythonBasics\PwBrowserContextDay31" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwKeyboard30" />
-      <recent name="C:\Users\nshra\git\PythonBasics" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwMouseActions" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwDialoguesFramesDay28" />
-      <recent name="C:\Users\nshra\git\PythonBasics\Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonBasics\PwKeyboard30" />
@@ -185,7 +203,7 @@
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in testfileuploads_Assignment.py">
+  <component name="RunManager">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -697,8 +715,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_dialog.test_prompt_dialog" />
         <item itemvalue="Python.functions" />
+        <item itemvalue="Python tests.Python tests for test_dialog.test_prompt_dialog" />
         <item itemvalue="Python tests.Python tests for test_demos.test_mytest" />
         <item itemvalue="Python.variables" />
       </list>
