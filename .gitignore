@@ -3,3 +3,6 @@ pytestdebug.log
 
 __pycache__/
 *.pyc
+
+
+PwApiTesting/allure-reports/

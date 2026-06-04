@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,141 +28,148 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for Asignment.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Assignment.test_actions.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_assignment_flight.test_assignment_flight_booking.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_bootstrapdropdown.test_bootstrapdropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_checkboxes.test_checkbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_datepicker_range.test_date_range_picker.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_datepickerwithdropdown.test_date_picker_with_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_demos.test_mytest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dialog.test_confirmation_dialog.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dialog.test_prompt_dialog.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_downloadfile.test_download_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_draganddrop_lab.test_draganddrop.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dummmyticketbooking.test_dummy_ticket_booking.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dynamicxpaths.test_handle_dynamic_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_frames.test_frames.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_mouseactions.test_mouse_hover.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_pwlocatorsdemo.test_verify_pwlocators.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_singleselectdropdown.test_single_select_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Asignment.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in AssigmentSolution.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Assignment.py (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Assignment.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in AssignmentDynamictable.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in PwOpenNewTab.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in practice.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_add_product_to_cart.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_assignment_dynamic_table.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_assignment_flight.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_assignment_tabs.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_authpopup.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_bootstrap_datepicker.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_brcontext.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_checkboxes.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_csslocators.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_datepicker_range.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_datepickerwithdropdown.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dd_item.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dd_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dd_login_csv.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dd_login_excel.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demos.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demos_fixtures.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demos_fixtures_returns.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demos_fixtures_scope.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demos_fixtures_yield.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dialog.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_downloadfile.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dummmyticketbooking.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dynamictable.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dynamicxpaths.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_flaky.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_frames.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_grouping.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_inputbox.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_irctc.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_jquerydatepicker.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_keyboardevents.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_logins.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_mouseactions.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_ordering.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_paginationtable.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_playwright.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_playwright_async.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_popups.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_practice.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_pwlocatorsdemo.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_pwmethods.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_radiobuttons.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_sample.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_screenshots.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_signups.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_skipping.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_statictable.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_tabs.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_tracing.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_uploadfiles.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_videorecording.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_xpathlocators.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testfileuploads_Assignment.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CodingQues1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DefaultDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Filehandling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ModuleVariants.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ModuleVariantsCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PwOpenNewTab.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TakingInputFromUser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.breakandcontinue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classABmain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.client3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditionalstatements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deletingvaraibles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.formattingoutput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functionarguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lamdademo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matchstatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mutabilityVsImmutability.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythondictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringmethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nshra/git/PythonBasics/PwPOODay35&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for Asignment.test_dropdown.executor": "Run",
+    "Python tests.Python tests for Assignment.test_actions.executor": "Run",
+    "Python tests.Python tests for test_api_auths.test_bearer_token_auth_github_repos.executor": "Run",
+    "Python tests.Python tests for test_assignment_flight.test_assignment_flight_booking.executor": "Run",
+    "Python tests.Python tests for test_bootstrapdropdown.test_bootstrapdropdown.executor": "Run",
+    "Python tests.Python tests for test_checkboxes.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_datepicker_range.test_date_range_picker.executor": "Run",
+    "Python tests.Python tests for test_datepickerwithdropdown.test_date_picker_with_dropdown.executor": "Run",
+    "Python tests.Python tests for test_demos.test_mytest.executor": "Run",
+    "Python tests.Python tests for test_dialog.test_confirmation_dialog.executor": "Run",
+    "Python tests.Python tests for test_dialog.test_prompt_dialog.executor": "Run",
+    "Python tests.Python tests for test_downloadfile.test_download_file.executor": "Run",
+    "Python tests.Python tests for test_draganddrop_lab.test_draganddrop.executor": "Run",
+    "Python tests.Python tests for test_dummmyticketbooking.test_dummy_ticket_booking.executor": "Run",
+    "Python tests.Python tests for test_dynamicxpaths.test_handle_dynamic_elements.executor": "Run",
+    "Python tests.Python tests for test_frames.test_frames.executor": "Run",
+    "Python tests.Python tests for test_mouseactions.test_mouse_hover.executor": "Run",
+    "Python tests.Python tests for test_multiselectdropdown.test_multi_select_dropdown.executor": "Run",
+    "Python tests.Python tests for test_pwlocatorsdemo.test_verify_pwlocators.executor": "Run",
+    "Python tests.Python tests for test_singleselectdropdown.test_single_select_dropdown.executor": "Run",
+    "Python tests.Python tests in Asignment.py.executor": "Run",
+    "Python tests.Python tests in AssigmentSolution.py.executor": "Run",
+    "Python tests.Python tests in Assignment.py (1).executor": "Run",
+    "Python tests.Python tests in Assignment.py.executor": "Run",
+    "Python tests.Python tests in AssignmentDynamictable.py.executor": "Run",
+    "Python tests.Python tests in PwOpenNewTab.py.executor": "Run",
+    "Python tests.Python tests in practice.py.executor": "Run",
+    "Python tests.Python tests in test_add_product_to_cart.py.executor": "Run",
+    "Python tests.Python tests in test_api_auths.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_dynamic_table.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_flight.py.executor": "Run",
+    "Python tests.Python tests in test_assignment_tabs.py.executor": "Run",
+    "Python tests.Python tests in test_authpopup.py.executor": "Run",
+    "Python tests.Python tests in test_booking_crud_e2e.py.executor": "Run",
+    "Python tests.Python tests in test_bootstrap_datepicker.py.executor": "Run",
+    "Python tests.Python tests in test_brcontext.py.executor": "Run",
+    "Python tests.Python tests in test_checkboxes.py.executor": "Run",
+    "Python tests.Python tests in test_cookies_in_response.py.executor": "Run",
+    "Python tests.Python tests in test_csslocators.py.executor": "Run",
+    "Python tests.Python tests in test_datepicker_range.py.executor": "Run",
+    "Python tests.Python tests in test_datepickerwithdropdown.py.executor": "Run",
+    "Python tests.Python tests in test_dd_item.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login_csv.py.executor": "Run",
+    "Python tests.Python tests in test_dd_login_excel.py.executor": "Run",
+    "Python tests.Python tests in test_demos.py.executor": "Run",
+    "Python tests.Python tests in test_demos_fixtures.py.executor": "Run",
+    "Python tests.Python tests in test_demos_fixtures_returns.py.executor": "Run",
+    "Python tests.Python tests in test_demos_fixtures_scope.py.executor": "Run",
+    "Python tests.Python tests in test_demos_fixtures_yield.py.executor": "Run",
+    "Python tests.Python tests in test_dialog.py.executor": "Run",
+    "Python tests.Python tests in test_downloadfile.py.executor": "Run",
+    "Python tests.Python tests in test_dummmyticketbooking.py.executor": "Run",
+    "Python tests.Python tests in test_dynamictable.py.executor": "Run",
+    "Python tests.Python tests in test_dynamicxpaths.py.executor": "Run",
+    "Python tests.Python tests in test_flaky.py.executor": "Run",
+    "Python tests.Python tests in test_frames.py.executor": "Run",
+    "Python tests.Python tests in test_grouping.py.executor": "Run",
+    "Python tests.Python tests in test_headers_response.py.executor": "Run",
+    "Python tests.Python tests in test_inputbox.py.executor": "Run",
+    "Python tests.Python tests in test_irctc.py.executor": "Run",
+    "Python tests.Python tests in test_jquerydatepicker.py.executor": "Run",
+    "Python tests.Python tests in test_json_schema_validation1.py.executor": "Run",
+    "Python tests.Python tests in test_keyboardevents.py.executor": "Run",
+    "Python tests.Python tests in test_logins.py.executor": "Run",
+    "Python tests.Python tests in test_mouseactions.py.executor": "Run",
+    "Python tests.Python tests in test_ordering.py.executor": "Run",
+    "Python tests.Python tests in test_paginationtable.py.executor": "Run",
+    "Python tests.Python tests in test_playwright.py.executor": "Run",
+    "Python tests.Python tests in test_playwright_async.py.executor": "Run",
+    "Python tests.Python tests in test_popups.py.executor": "Run",
+    "Python tests.Python tests in test_practice.py.executor": "Run",
+    "Python tests.Python tests in test_pwlocatorsdemo.py.executor": "Run",
+    "Python tests.Python tests in test_pwmethods.py.executor": "Run",
+    "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
+    "Python tests.Python tests in test_sample.py.executor": "Run",
+    "Python tests.Python tests in test_screenshots.py.executor": "Run",
+    "Python tests.Python tests in test_signups.py.executor": "Run",
+    "Python tests.Python tests in test_skipping.py.executor": "Run",
+    "Python tests.Python tests in test_statictable.py.executor": "Run",
+    "Python tests.Python tests in test_tabs.py.executor": "Run",
+    "Python tests.Python tests in test_tracing.py.executor": "Run",
+    "Python tests.Python tests in test_uploadfiles.py.executor": "Run",
+    "Python tests.Python tests in test_videorecording.py.executor": "Run",
+    "Python tests.Python tests in test_xpathlocators.py.executor": "Run",
+    "Python tests.Python tests in testfileuploads_Assignment.py.executor": "Run",
+    "Python.Assignment.executor": "Run",
+    "Python.Assignment2.executor": "Run",
+    "Python.CodingQues1.executor": "Run",
+    "Python.DefaultDict.executor": "Run",
+    "Python.Exceptions.executor": "Run",
+    "Python.Filehandling.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.ModuleVariants.executor": "Run",
+    "Python.ModuleVariantsCounter.executor": "Run",
+    "Python.PwOpenNewTab.executor": "Run",
+    "Python.TakingInputFromUser.executor": "Run",
+    "Python.breakandcontinue.executor": "Run",
+    "Python.classABmain.executor": "Run",
+    "Python.client.executor": "Run",
+    "Python.client3.executor": "Run",
+    "Python.concatenation.executor": "Run",
+    "Python.conditionalstatements.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.deletingvaraibles.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.formattingoutput.executor": "Run",
+    "Python.functionarguments.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.lamdademo.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.matchstatement.executor": "Run",
+    "Python.mutabilityVsImmutability.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.polymorphism.executor": "Run",
+    "Python.pythondictionary.executor": "Run",
+    "Python.stringmethods.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.whileloop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/nshra/git/PlayWrightALL/PythonPlaywright/PwApiTesting",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PlayWrightALL\PythonPlaywright\PwApiTesting" />
+      <recent name="C:\Users\nshra\git\PlayWrightALL\PythonPlaywright\PwApiTesting\testdata" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwPOODay35" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwAllureReportsDay34" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwDataDrivenDay33" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwCaptureVideosDay32" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwBrowserContextDay31" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonBasics\PwKeyboard30" />
@@ -174,7 +179,7 @@
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.functions">
+  <component name="RunManager" selected="Python tests.Python tests for test_api_auths.test_bearer_token_auth_github_repos">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />
@@ -276,6 +281,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;PwMouseActionsDay29.test_mouseactions.test_mouse_hover&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_api_auths.test_bearer_token_auth_github_repos" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pythonplaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PwApiTesting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_api_auths.test_bearer_token_auth_github_repos&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -686,6 +706,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_api_auths.test_bearer_token_auth_github_repos" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python tests.Python tests for test_dialog.test_prompt_dialog" />
         <item itemvalue="Python tests.Python tests for test_demos.test_mytest" />
