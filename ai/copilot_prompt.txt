@@ -1,0 +1,19 @@
+Generate and execute an API test using pytest and Playwright MCP.
+Test Scenario:
+Set the API endpoint to https://fakestoreapi.com/products/1.
+Send a GET request to the endpoint.
+Verify the response status code is 200.
+Validate that the response JSON contains the keys:
+id, title, price, category, and description.
+Verify the JSON response includes the following expected values:
+{
+  "id": 1,
+  "price": 109.95,
+  "category": "men's clothing"
+}
+Log the complete response body to the console.
+Implementation Requirements:
+Follow the pytest-style structure (functions start with test_).
+Execute each step interactively using Playwright MCP tools for validation.
+After successful validation, save the generated script as ai/test_apitest_mcp.py.
+If any step or assertion fails, identify and fix the issue, then rerun until the test passes.
