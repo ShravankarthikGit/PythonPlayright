@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="" />
+    <list default="true" id="65541f17-f76f-4cde-9510-5e946ebc27bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AITesting/copilotdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_shadow_dom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/nshra/git/PlayWrightALL/PythonPlaywright" value="3Dx4QgL5uzH28sY8GGrwy7WkaqQ" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,6 +67,7 @@
     "Python tests.Python tests in AssignmentDynamictable.py.executor": "Run",
     "Python tests.Python tests in PwOpenNewTab.py.executor": "Run",
     "Python tests.Python tests in practice.py.executor": "Run",
+    "Python tests.Python tests in search_product.py.executor": "Run",
     "Python tests.Python tests in test_add_product_to_cart.py.executor": "Run",
     "Python tests.Python tests in test_api_auths.py.executor": "Run",
     "Python tests.Python tests in test_assignment_dynamic_table.py.executor": "Run",
@@ -108,6 +118,7 @@
     "Python tests.Python tests in test_radiobuttons.py.executor": "Run",
     "Python tests.Python tests in test_sample.py.executor": "Run",
     "Python tests.Python tests in test_screenshots.py.executor": "Run",
+    "Python tests.Python tests in test_shadow_dom.py.executor": "Run",
     "Python tests.Python tests in test_signups.py.executor": "Run",
     "Python tests.Python tests in test_skipping.py.executor": "Run",
     "Python tests.Python tests in test_statictable.py.executor": "Run",
@@ -159,17 +170,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nshra/git/PlayWrightALL/PythonPlaywright/PwApiTesting",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/nshra/git/PlayWrightALL/PythonPlaywright",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.mcp.McpConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nshra\git\PlayWrightALL\PythonPlaywright" />
       <recent name="C:\Users\nshra\git\PlayWrightALL\PythonPlaywright\PwApiTesting" />
       <recent name="C:\Users\nshra\git\PlayWrightALL\PythonPlaywright\PwApiTesting\testdata" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwPOODay35" />
       <recent name="C:\Users\nshra\git\PythonBasics\PwAllureReportsDay34" />
-      <recent name="C:\Users\nshra\git\PythonBasics\PwDataDrivenDay33" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonBasics\PwKeyboard30" />
@@ -179,7 +190,7 @@
       <recent name="C:\Users\nshra\git\PythonBasics\ModulesDay13\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_api_auths.test_bearer_token_auth_github_repos">
+  <component name="RunManager">
     <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonplaywright" />
       <option name="ENV_FILES" value="" />

@@ -5,4 +5,7 @@ __pycache__/
 *.pyc
 
 
-PwApiTesting/allure-reports/
+*/allure-reports/
+*/test-results/
+allure-reports
+test-results
